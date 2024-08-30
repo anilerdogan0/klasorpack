@@ -1,3 +1,4 @@
+![banner](https://repository-images.githubusercontent.com/849753639/3893e229-4245-400f-b7f1-ff34da0828c2)
 # KlasorPack - Folder Icons Pack
 
 ## Türkçe 🇹🇷
